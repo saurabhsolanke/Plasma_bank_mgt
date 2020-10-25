@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+<title>HOSPITAL</title>
+<path d="M 25,475 V 150 L 250,35 475,150 V 475 Z" stroke="black" stroke-width="50" fill="white" />
+<path d="M 125,275 H 375 M 250,150 V 400" stroke="red" stroke-width="75" fill="white" />
+</svg>
